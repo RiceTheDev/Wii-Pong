@@ -4,6 +4,7 @@
 WiiPong is a clone of [Pong](https://pt.wikipedia.org/wiki/Pong) for the [Nintendo Wii](https://pt.wikipedia.org/wiki/Wii).
 
 
+You need 2 controllers to play!
 
 ## Demonstration
 **Captured on a real Wii**
