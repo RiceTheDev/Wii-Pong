@@ -47,7 +47,7 @@ Enter the directory
 Install the needed dependencies
 
 ```bash
-  pacman --sync --needed --noconfirm libfat-ogc ppc-libpng ppc-freetype ppc-libjpeg-turbo zlib wii-dev
+  (dkp-)pacman --sync --needed --noconfirm libfat-ogc ppc-libpng ppc-freetype ppc-libjpeg-turbo zlib wii-dev
 ```
 
 Build the game
