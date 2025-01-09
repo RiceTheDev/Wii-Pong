@@ -12,7 +12,7 @@ You need 2 controllers to play!
 ![](https://raw.githubusercontent.com/RiceTheDev/Wii-Pong/refs/heads/main/readme/Gameplay.gif)
 ## Running
 
-You can use the [Homebrew Channel](https://github.com/fail0verflow/hbc) by FailedOverfl0w To run the game,
+You can use the [Homebrew Channel](https://github.com/fail0verflow/hbc) by Failed0verflow To run the game,
  You just need to create a folder called apps, create a directory for the game, and put the meta.xml and the logo.png with the boot.dol (rename the WiiPong to boot.dol).
   
 Example: 
